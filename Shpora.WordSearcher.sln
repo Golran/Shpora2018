@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shpora.WordSearcher", "Shpora.WordSearcher\Shpora.WordSearcher.csproj", "{13E8464C-25BC-47CD-9729-D6CE6956C498}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13E8464C-25BC-47CD-9729-D6CE6956C498}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13E8464C-25BC-47CD-9729-D6CE6956C498}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13E8464C-25BC-47CD-9729-D6CE6956C498}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13E8464C-25BC-47CD-9729-D6CE6956C498}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C760F169-AB8B-4E0A-8310-056E82B7A8C2}
+	EndGlobalSection
+EndGlobal

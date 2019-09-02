@@ -1,0 +1,12 @@
+C:\Users\lotro\OneDrive\Документы\Visual Studio 2017\Шпора2\Shpora.WordSearcher\Shpora.WordSearcher\bin\Debug\Shpora.WordSearcher.exe.config
+C:\Users\lotro\OneDrive\Документы\Visual Studio 2017\Шпора2\Shpora.WordSearcher\Shpora.WordSearcher\bin\Debug\Shpora.WordSearcher.exe
+C:\Users\lotro\OneDrive\Документы\Visual Studio 2017\Шпора2\Shpora.WordSearcher\Shpora.WordSearcher\bin\Debug\Shpora.WordSearcher.pdb
+C:\Users\lotro\OneDrive\Документы\Visual Studio 2017\Шпора2\Shpora.WordSearcher\Shpora.WordSearcher\obj\Debug\Shpora.WordSearcher.csprojAssemblyReference.cache
+C:\Users\lotro\OneDrive\Документы\Visual Studio 2017\Шпора2\Shpora.WordSearcher\Shpora.WordSearcher\obj\Debug\Shpora.WordSearcher.csproj.CoreCompileInputs.cache
+C:\Users\lotro\OneDrive\Документы\Visual Studio 2017\Шпора2\Shpora.WordSearcher\Shpora.WordSearcher\obj\Debug\Shpora.WordSearcher.exe
+C:\Users\lotro\OneDrive\Документы\Visual Studio 2017\Шпора2\Shpora.WordSearcher\Shpora.WordSearcher\obj\Debug\Shpora.WordSearcher.pdb
+C:\Users\lotro\OneDrive\Документы\Visual Studio 2017\Шпора2\Shpora.WordSearcher\Shpora.WordSearcher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lotro\OneDrive\Документы\Visual Studio 2017\Шпора2\Shpora.WordSearcher\Shpora.WordSearcher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lotro\OneDrive\Документы\Visual Studio 2017\Шпора2\Shpora.WordSearcher\Shpora.WordSearcher\obj\Debug\Shpora.WordSearcher.csproj.CopyComplete
+C:\Users\lotro\OneDrive\Документы\Visual Studio 2017\Шпора2\Shpora.WordSearcher\Shpora.WordSearcher\obj\Debug\Shpora.WordSearcher.Properties.Resources.resources
+C:\Users\lotro\OneDrive\Документы\Visual Studio 2017\Шпора2\Shpora.WordSearcher\Shpora.WordSearcher\obj\Debug\Shpora.WordSearcher.csproj.GenerateResource.cache
